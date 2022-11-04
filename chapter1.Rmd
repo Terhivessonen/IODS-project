@@ -11,3 +11,8 @@ date()
 ```
 The text continues here.
 
+#At the moment I am feeling quite nervous about learning a lot of new things. I have priorly used Mplus for analysing so I'm familiar whith such analysing where you are required to write your own code. However, I'm not familiar with R and all it's features. I'm well aware that not being in the comfort zone is where you will learn and I'm also excited to see, what I will learn. Thus, I do not have any specific learning goals in mind.
+
+#Also, it was quite a heavy package to start learning about R markdown as I myself was not able to memorize all the details I read. However, I found the chapters quite well written, so that everything was quite clearly expressed. I of course do not assume, that I am supposed to memorize everything I read.
+
+#https://github.com/Terhivessonen/IODS-project
